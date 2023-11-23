@@ -3,7 +3,7 @@ def listproblem(commands):
 
     for com in commands:
         if com[0] == "insert":
-            El.insert(int(com[1]),int(com[2]))
+            El.insert(int(com[1]),int(com[2])) #
         elif com[0] == "print":
             print(El)
         elif com[0] == "remove":
