@@ -8,3 +8,4 @@ if __name__ == "__main__":
     result = Linear_Algebra_determinant(A)
 
     print(result)
+    
