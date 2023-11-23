@@ -7,3 +7,4 @@ def threesubject_marks(d, student_name):
 
     print("Student {} not found.".format(student_name))
     return None
+    
