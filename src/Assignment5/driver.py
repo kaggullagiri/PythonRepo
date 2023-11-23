@@ -5,5 +5,7 @@ if __name__ == '__main__':
     i, c = input("Enter the position & character separated by space: ").split()
     new_string = StringMutation(st, int(i), c)
     print("The modified string is string:", new_string)
+
+
     
 
