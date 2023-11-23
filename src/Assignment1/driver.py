@@ -6,3 +6,4 @@ if __name__ == '__main__':
     user_commands = [input().split() for i in range(N)]
     listproblem(user_commands)
     
+    
