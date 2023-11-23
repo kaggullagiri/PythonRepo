@@ -1,4 +1,4 @@
-from util import StringMutation
+from src.Assignment5.util import StringMutation
 
 if __name__ == '__main__':
     st = input("Enter the stringName: ")

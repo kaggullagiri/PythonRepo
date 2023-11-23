@@ -1,4 +1,4 @@
-from util import printingpattern
+from src.Assignment8.util import printingpattern
 
 # Taking the user input for the thickness
 thickness = int(input("Enter thickness (must be an odd number): "))
