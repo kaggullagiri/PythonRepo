@@ -15,5 +15,6 @@ if __name__ == '__main__':
     student_name = input("Enter the studentname to tally: ")
     threesubject_marks(student_marks, student_name)
     
+    
 
 
