@@ -10,3 +10,4 @@ if __name__ == "__main__":
     print(mean_result)
     print(var_result)
     print(std_result)
+    
