@@ -8,3 +8,4 @@ if __name__ == "__main__":
     results = to_check_piling(test_cases)
 
     print("\n".join(results))
+    
