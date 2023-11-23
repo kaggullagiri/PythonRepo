@@ -14,5 +14,6 @@ if __name__ == '__main__':
     # here we can tally average percentage
     student_name = input("Enter the studentname to tally: ")
     threesubject_marks(student_marks, student_name)
+    
 
 
