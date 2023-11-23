@@ -7,3 +7,4 @@ if __name__ == "__main__":
 
     average = calculateaverage(input_count, fields, data)
     print(f"{average:.2f}")
+    
