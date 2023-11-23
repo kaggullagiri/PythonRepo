@@ -7,3 +7,4 @@ if __name__ == "__main__":
     print("Floor:", floor_result)
     print("Ceil:", ceil_result)
     print("Rint:", rint_result)
+    
