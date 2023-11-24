@@ -3,4 +3,5 @@ def StringMutation(string, position, character):
     num[position] = character
     string = "".join(num)
     return string
+    
 
