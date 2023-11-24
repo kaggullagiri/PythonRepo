@@ -6,3 +6,4 @@ def mean_var_std_stats(A):
     std_result = np.round(np.std(A), 11)
 
     return mean_result, var_result, std_result
+    
