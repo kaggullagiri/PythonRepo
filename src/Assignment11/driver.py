@@ -8,3 +8,4 @@ if __name__ == "__main__":
     print("Ceil:", ceil_result)
     print("Rint:", rint_result)
     
+    
