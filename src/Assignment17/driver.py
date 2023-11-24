@@ -8,3 +8,4 @@ if __name__ == "__main__":
 
     print("Number of unique elements:", unique_count)
     print("Occurrences:", *occurrences)
+    
