@@ -9,3 +9,4 @@ if __name__ == "__main__":
     probability = Iterables_and_Iterators_probability(letters, K, target_letter)
 
     print(f"Probability of '{target_letter}' in combinations of size {K}: {probability:.4f}")
+    
