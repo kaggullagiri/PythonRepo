@@ -8,3 +8,4 @@ if __name__ == "__main__":
     happiness = score_of_happiness(elements, set_A, set_B)
     print("Happiness:", happiness)
     
+    
