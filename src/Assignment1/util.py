@@ -20,3 +20,4 @@ def listproblem(commands):
             El = El[::-1]
 
     return El  # Return the modified list
+    
