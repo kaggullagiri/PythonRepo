@@ -28,3 +28,4 @@ def printingpattern(thickness, c='H'):
 
     return result
     
+    
