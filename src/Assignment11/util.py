@@ -8,3 +8,4 @@ def round_array(input_array):
     rint_result = np.rint(array)
 
     return floor_result, ceil_result, rint_result
+    
