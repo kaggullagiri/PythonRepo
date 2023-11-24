@@ -11,3 +11,4 @@ if __name__ == "__main__":
     print(var_result)
     print(std_result)
     
+    
