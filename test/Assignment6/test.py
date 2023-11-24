@@ -15,4 +15,5 @@ class TestPrintFormatted(unittest.TestCase):
 
         print_formatted(test_input)
         self.assertEqual(mock_stdout.getvalue(), expected_output, "Output mismatch")
+        
 
