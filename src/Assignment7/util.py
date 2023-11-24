@@ -6,3 +6,4 @@ def split_num_char(string, k):
         word1 = "".join(OrderedDict.fromkeys(string[i: i+k]))
         yield word1
         i = i + k
+        
