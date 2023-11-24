@@ -6,3 +6,4 @@ if __name__ == '__main__':
     for word in result:
         print(word)
         
+        
