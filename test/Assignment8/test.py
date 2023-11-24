@@ -18,3 +18,4 @@ class TestPrintingPattern(unittest.TestCase):
         self.assertEqual(result, expected_output, "Basic test failed")
 if __name__ == '__main__':
     unittest.main()
+    
