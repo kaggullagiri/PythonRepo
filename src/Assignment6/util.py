@@ -4,3 +4,4 @@ def print_formatted(number):
         deci, octa, hexa, bina = str(i), oct(i)[2:], hex(i)[2:].upper(), bin(i)[2:]
         print(deci.rjust(width), octa.rjust(width), hexa.rjust(width), bina.rjust(width))
         
+        
