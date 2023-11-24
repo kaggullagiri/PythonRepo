@@ -7,3 +7,4 @@ thickness = int(input("Enter thickness (Enter an odd number): "))
 result = printingpattern(thickness)
 for i in result:
     print(i)
+
