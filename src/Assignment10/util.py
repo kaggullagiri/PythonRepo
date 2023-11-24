@@ -10,3 +10,4 @@ def calculateaverage(input_count, fields, student_data):
         total_marks += int(student.marks)
 
     return total_marks / input_count
+    
